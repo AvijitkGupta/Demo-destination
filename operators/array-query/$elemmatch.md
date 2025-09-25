@@ -13,6 +13,7 @@
 # $elemMatch
 
 The `$elemMatch` operator is used to match documents that contain an array field with at least one element that matches all the specified query criteria. This operator is useful when you need to find array documents with specified element.
+Adding this to validate update scenario.
 
 ## Syntax
 
